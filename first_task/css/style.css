@@ -3,12 +3,14 @@
     width: 700px;
 }
 .back1{
-    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    height: 352px;
     width: 100%;
     background-image: linear-gradient(86deg, rgb(223, 222, 255) 0%, rgb(255, 227, 227) 100%);
 }
 .back2{
-    float: right;
-    
-    padding-right: max(30%,200px);
+    width: 384px;
+    height: 256px;
+    padding-left: 10%;
 }
